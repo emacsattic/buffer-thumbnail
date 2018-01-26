@@ -2,6 +2,8 @@
 ;;
 ;; Copyright (C) 2005 Thien-Thi Nguyen
 ;;
+;; License: GPL
+;;
 ;; This file is part of ttn's personal elisp library, released under GNU
 ;; GPL with ABSOLUTELY NO WARRANTY.  See the file COPYING for details.
 ;;
